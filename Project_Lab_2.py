@@ -1,4 +1,4 @@
-#   Danny Fisher
+#   Austin Weathers
 #   CIS261
 #   Project Phase 2
 def GetEmpName():
